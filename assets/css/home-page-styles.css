@@ -172,11 +172,11 @@ body[id^="spider-man-"]::before {
 body[id^="spider-man-"] .s-card:not(.s-card--hovered) {
   filter: grayscale(100%);
 }
-/*
+
 .s-card--hovered .s-card__title {
   bottom: 50%;
 }
-
+/*
 .s-cards-carousel {
   display: flex;
   justify-content: center;
