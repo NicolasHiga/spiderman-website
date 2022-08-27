@@ -1,10 +1,9 @@
 @import url('reset.css');
 @import url('global.css');
-/*
 @import url('components/_navigator.css');
 @import url('components/_pills.css');
 @import url('components/_link-button.css');
-@import url('components/_gallery.css'); */
+@import url('components/_gallery.css');
 
 .s-wrapper {
   display: flex;
@@ -22,7 +21,6 @@
 .s-wrapper .s-left-column {
   width: 100px;
   height: 100%;
-  background-color: black;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -40,7 +38,7 @@
   padding-left: 130px;
   position: relative;
 }
-/*
+
 .s-wrapper .s-main-content__top {
   height: 80vh;
   display: flex;
@@ -101,4 +99,3 @@
   background-image: url('../images/spiderman-tobey/movie-03/background.png');
   background-size: cover;
 } 
-*/
